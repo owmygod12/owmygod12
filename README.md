@@ -1,8 +1,8 @@
 # 👨 Henrique Lopes Borges De Souza
 
-**`Ciência da Computação`**
+**`Engenharia de Software`**
 
-Olá meu nome é Henrique sou estudante de ciência da computação pelo (Uniceub). Apaixonado por T.I desde pequeno principalmente por cyber security
+Olá meu nome é Henrique sou estudante de Engenharia de Software pelo (Uniceub). Apaixonado por T.I desde pequeno principalmente por cyber security
 
 ###  Linguagens e Tecnologias
 
